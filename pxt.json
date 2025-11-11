@@ -10,7 +10,9 @@
         "main.ts",
         "README.md",
         "mission1.md",
-        "mission2.md"
+        "mission2.md",
+        "mission3.md",
+        "mission4.md"
     ],
     "testFiles": [
         "test.ts"
