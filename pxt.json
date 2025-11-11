@@ -8,7 +8,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "mission1.md"
     ],
     "testFiles": [
         "test.ts"
